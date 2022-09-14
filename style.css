@@ -42,6 +42,9 @@ h1 {
     text-align: center;
     text-decoration-color: aqua;
 }
+#frases {
+    text-align: center;
+}
 
 .line {
     height: 6px;
